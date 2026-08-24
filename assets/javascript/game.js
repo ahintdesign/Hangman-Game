@@ -1,4 +1,5 @@
- //word bank
+  // This is cool!
+  //word bank
  var aboutMj = ["thriller", "glove", "moonwalk", "dancer", "neverland", "motown", "kingofpop", "entertainer", "legend", "bubbles"];
 
  //holds the answer in string
@@ -10,6 +11,7 @@
  //Number of blanks in word
  var numBlanks = 0;
 
+ 
  //Shows blanks
  var blanks = [];
 
